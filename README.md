@@ -18,9 +18,8 @@ Given these stats and the growth along this horizon, there are still many opport
 
 ## Users 
 The users of Twilio can be segmeneted into two sections: 
-1. Developers (that's us! :cowboy_hat_face:)
+1. Developers from any consumer-facing company 
 2. Non-technical Marketing Teams at large companies 
-3. Small Businesses - ecommerce + physical services 
 
 ## Prerequisites 
 - Create a [Twilio Account](https://www.twilio.com/sms) to obtain your SMS-enabled Twilio phone number. We will need our account SID and auth token. 
