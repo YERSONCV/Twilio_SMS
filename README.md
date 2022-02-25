@@ -46,6 +46,10 @@ To help Drip2Duong reach their quarter goals, we are using Twilio to:
 
 Watch video for full tutorial, feel free to clone this repo (additional scheduling SMS code included)  
 
+## Engagement 
+- Star this repo -> we have a head count of how many people are getting involved! 
+- Discord channel to be created to track engagement and success of tutorial. 
+
 ## What's Next? 
 Drip2Duong is now able to send messages to their customers and have opened the feedback loop by accepting inbound messages. Using everything we have learned, if we choose, we can counter offer the :coffee:/month with :coffee: + :milk_glass:/ month in exchange for the implementation of a survey option. 
 
@@ -55,3 +59,4 @@ Additionally, you can pipe the responses from the text messages out of the ngrox
 
 ## References
 [Twilio Developer Docs](https://www.twilio.com/docs/sms/quickstart/python)
+
