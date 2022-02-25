@@ -40,10 +40,9 @@ Drip2Duong Coffee is an ecommerce brand that sells coffee beans, creamers, and a
 ## What We are Building 
 To help Drip2Duong reach their quarter goals, we are using Twilio to: 
 - :outbox_tray: Send an outbound message 
-- :inbox_tray: Reply to an inbound message
-- :no_mobile_phones: Provide unsubscribe options (Built into Twilio) 
+- :inbox_tray: Reply to an inbound message 
 
-Watch video for full tutorial, feel free to clone this repo (additional scheduling SMS code included)  
+Watch video for full tutorial, feel free to clone this repo to get building.  
 
 ## Engagement 
 - Star this repo -> we have a head count of how many people are getting involved! 
