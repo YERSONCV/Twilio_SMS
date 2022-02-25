@@ -42,7 +42,7 @@ To help Drip2Duong reach their quarter goals, we are using Twilio to:
 - :outbox_tray: Send an outbound message 
 - :inbox_tray: Reply to an inbound message 
 
-Watch video for full tutorial, feel free to clone this repo to get building.  
+Watch [video](https://www.youtube.com/watch?v=tDb8ofsNpwI) for full tutorial, feel free to clone this repo to get building. You will need to create your own virtual environment first (steps in video).  
 
 ## Engagement 
 - Star this repo -> we have a head count of how many people are getting involved! 
@@ -57,4 +57,3 @@ Additionally, you can pipe the responses from the text messages out of the ngrox
 
 ## References
 [Twilio Developer Docs](https://www.twilio.com/docs/sms/quickstart/python)
-
